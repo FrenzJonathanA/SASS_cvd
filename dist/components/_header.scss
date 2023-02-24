@@ -1,0 +1,19 @@
+.header{
+    .branding{
+        h3{
+            color: $clr-light;
+            margin-left: 1rem;
+            font-family: 2rem;
+            span{
+                color: $clr-primary;
+                
+            }
+        }
+        img{
+            width: 5rem;
+        }
+        display:flex;
+        align-items: center;
+    }
+
+}
